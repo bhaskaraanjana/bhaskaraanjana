@@ -7,7 +7,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhaskar%20Aanjana&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Builder%20%C2%B7%20Local-first%20AI%20%C2%B7%20Product%20engineer&descAlignY=60&descSize=16)
 
-### Founder @ [Aegis Tech](https://github.com/bhaskaraanjana) · St. John's, NL
+### Founder @ [Aegis Tech](https://aegistech.services) · St. John's, NL
 
 [![GitHub](https://img.shields.io/badge/GitHub-bhaskaraanjana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaskaraanjana)
 [![Ecosystem](https://img.shields.io/badge/Live_ecosystem-infinitemind.space-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://infinitemind.space)
@@ -21,7 +21,7 @@
 
 I'm a Computer Science grad (Co-op) from **Memorial University** with a Business minor. I build **local-first, privacy-minded products** — tools that feel fast on the floor, keep data on-device when it matters, and remove friction from everyday workflows.
 
-Currently shipping the **Infinite Mind** ecosystem (public + private apps) and **Aegis Tech** — private, offline-first AI for sensitive-IP organizations.
+Currently shipping the **[Infinite Mind](https://app.infinitemind.space)** ecosystem (public + private apps) and **[Aegis Tech](https://aegistech.services)** — private, offline-first AI for sensitive-IP organizations.
 
 > Solving complex problems, shipping real products, and killing workflow friction.
 
@@ -35,7 +35,7 @@ Currently shipping the **Infinite Mind** ecosystem (public + private apps) and *
 | **[HelloCal](https://github.com/bhaskaraanjana/HelloCal)** | Voice-first calorie tracker — speak meals, offline-ready PWA | [Live](https://hellocal-eight.vercel.app) |
 | **[HelloFit](https://github.com/bhaskaraanjana/HelloFit)** | Gym-first workout tracker — offline logging, e1RM, hands-free inputs | [Live](https://hellofit-nine.vercel.app) |
 | **[Omni](https://github.com/bhaskaraanjana/Omni-Steroid)** | Local-first meeting intelligence — bot-free capture, on-device STT, Obsidian vault | [Repo](https://github.com/bhaskaraanjana/Omni-Steroid) |
-| **Infinite Mind** | Spatial canvas for thinking — brain dumps → linked, explorable notes | [Live](https://app.infinitemind.space) · [infinitemind.space](https://infinitemind.space) |
+| **[Infinite Mind](https://app.infinitemind.space)** | Spatial canvas for thinking — brain dumps → linked, explorable notes | [Live](https://app.infinitemind.space) · [Hub](https://infinitemind.space) |
 
 <p align="center">
   <a href="https://infinitemind.space"><img src="https://img.shields.io/badge/▶_Explore_the_suite-8b5cf6?style=for-the-badge" alt="Explore suite"/></a>
@@ -87,7 +87,7 @@ Research, robotics, data viz, and smaller product experiments beyond the main su
 
 | Role | Org | Focus |
 |------|-----|--------|
-| Founder | **Aegis Tech** / Infinite Mind | Private AI infra · local-first product suite |
+| Founder | **[Aegis Tech](https://aegistech.services)** / [Infinite Mind](https://app.infinitemind.space) | Private AI infra · local-first product suite |
 | Business & Tech Analyst | **CGI** | ServiceNow · SLA · data integrity (95% SLA, −25% resolution time) |
 | Full-Stack Developer | **PNP Infotech** | React · Node · GraphQL · test coverage ↑ 62% → 88% |
 | Research Assistant | **SafetyNet, MUN** | Web overhaul · SQL analysis |
@@ -96,6 +96,8 @@ Research, robotics, data viz, and smaller product experiments beyond the main su
 
 ### Elsewhere
 
+- **Aegis Tech:** [aegistech.services](https://aegistech.services)  
+- **Infinite Mind app:** [app.infinitemind.space](https://app.infinitemind.space)  
 - **Ecosystem hub:** [infinitemind.space](https://infinitemind.space)  
 - **GitHub:** [@bhaskaraanjana](https://github.com/bhaskaraanjana)  
 - **Open to:** product engineering, full-stack / AI app roles, and collaborations on local-first tooling  
